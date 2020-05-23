@@ -1,2 +1,2 @@
-# projecteuler
-My solution of coding problems on Project Euler: https://projecteuler.net/archives
+# Algorithm Practice
+Here are some of my practice to solve problems via algorithms.
